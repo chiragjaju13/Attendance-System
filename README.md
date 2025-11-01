@@ -59,8 +59,7 @@ Create a folder named `ImagesAttendance` (if not already there) and add clear im
 ```
 ImagesAttendance/
 ├── Chirag.jpg
-├── Alex.png
-└── Priya.jpg
+├── Jaju.png
 ```
 
 ### 4️⃣ Run the application
