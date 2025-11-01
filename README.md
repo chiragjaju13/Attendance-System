@@ -170,7 +170,7 @@ This project is licensed under the **MIT License** — free to use and modify.
 ## 👨‍💻 Author
 
 **Chirag Jaju**  
-📧 Email: chi18rag@gmail.com
+📧 Email: chi18rag@gmail.com 
 🔗 GitHub: [chiragjaju13](https://github.com/chiragjaju13)
 
 ⭐ *If you find this project helpful, please give it a star!*
